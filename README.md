@@ -54,7 +54,3 @@ Full-Stack Developer & IoT Specialist with expertise in building fast, scalable 
 <a href="https://github.com/SarayutMind">
   <img src="https://github-readme-stats.vercel.app/api?username=SarayutMind&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </a>
-
-<a href="https://github.com/SarayutMind">
-  <img src="https://github-readme-stats.vercel.app/api?username=SarayutMind&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-</a>
