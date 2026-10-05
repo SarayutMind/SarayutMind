@@ -2,14 +2,14 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0891b2,100:164e63&height=220&section=header&text=Sarayut%20Pintakham&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20IoT%20Specialist%20%7C%20FoodStacks&descAlignY=60&descSize=18&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0891b2,100:164e63&height=220&section=header&text=Sarayut%20Pintakham&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20FoodStacks&descAlignY=60&descSize=18&animation=fadeIn"
     width="100%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=0891B2&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%F0%9F%92%BB;IoT+Specialist+%F0%9F%93%A1;Building+Modern+Web+Applications+%F0%9F%9A%80;Connecting+Software+%26+Hardware+%F0%9F%94%8C;Building+FoodTech+with+FoodStacks+%F0%9F%8D%94;Always+Learning.+Always+Building.+%E2%9A%A1"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=0891B2&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%F0%9F%92%BB;Building+Modern+Web+Applications+%F0%9F%9A%80;Building+FoodTech+with+FoodStacks+%F0%9F%8D%94;Always+Learning.+Always+Building.+%E2%9A%A1"
     alt="Typing SVG"
   />
 </p>
@@ -28,13 +28,12 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Full-Stack Developer & IoT Specialist** passionate about building modern, scalable and reliable digital systems.
+I'm a **Full-Stack Developer** passionate about building modern, scalable and reliable web applications.
 
-My work focuses on connecting **software, hardware and real-world problems** through web applications, IoT solutions and FoodTech.
+My work focuses on solving **real-world problems** through clean code, thoughtful design and FoodTech.
 
 * 🌍 Based in **Mueang Bueng Kan, Thailand**
 * 💻 Full-Stack Web Developer
-* 📡 IoT & Hardware Integration
 * 🍔 Working on **FoodStacks**
 * ⚡ Interested in real-time and scalable systems
 * 🧠 Currently learning **PostgreSQL, Go & Python**
@@ -52,15 +51,15 @@ My work focuses on connecting **software, hardware and real-world problems** thr
 
 ### 💻 Full-Stack
 
-Building modern web applications with clean architecture, responsive UI and reliable backend systems.
+Building modern web applications with clean architecture and reliable backend systems.
 
 </td>
 
 <td width="33%" align="center">
 
-### 📡 IoT
+### 🎨 UI / UX
 
-Connecting hardware, sensors and devices with software systems and real-time data.
+Designing responsive, accessible interfaces with a focus on developer and user experience.
 
 </td>
 
@@ -104,81 +103,38 @@ Building **FoodStacks** and exploring technology for the food ecosystem.
 
 ---
 
-## 🎮 Developer Mode
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=0891B2&center=true&vCenter=true&width=700&lines=%5B+SYSTEM+ONLINE+%5D;%5B+FULL-STACK+MODE+%5D;%5B+IOT+MODE+%5D;%5B+BUILDING+SOMETHING+NEW...+%5D;%5B+QUEST%3A+KEEP+LEARNING+%5D"
-    alt="Developer Mode"
+    src="https://github-profile-trophy.vercel.app/?username=SarayutMind&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"
+    alt="GitHub Trophies"
   />
 </p>
-
-```text
-╔══════════════════════════════════════════════════════╗
-║                    SARAYUT.EXE                      ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║  CLASS       : FULL-STACK DEVELOPER                 ║
-║  SPECIALTY   : WEB + IoT                            ║
-║  MAIN STACK  : TypeScript / Next.js                 ║
-║  SECONDARY   : React / Node.js / Python / Go        ║
-║                                                      ║
-║  ABILITIES                                           ║
-║  ├─ Full-Stack Development     ██████████░  90%     ║
-║  ├─ Web Application            ██████████░  90%     ║
-║  ├─ IoT Integration            ████████░░░  80%     ║
-║  ├─ UI / UX                    ████████░░░  80%     ║
-║  └─ Backend Systems            ████████░░░  80%     ║
-║                                                      ║
-║  CURRENT QUEST                                      ║
-║  ├─ Learn PostgreSQL                               ║
-║  ├─ Learn Go                                       ║
-║  ├─ Improve Python                                 ║
-║  └─ Build FoodTech with FoodStacks                 ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
+  <img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=SarayutMind&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-  <!-- GitHub Stats -->
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark&bg_color=1c1917&title_color=0891b2&icon_color=0891b2&text_color=ffffff&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide_border=true"
-      height="180"
-      alt="GitHub Stats"
-    />
-  </picture>
+<p align="center">
+  <img width="100%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+</p>
 
-  <!-- SarayutMind Streak -->
-  <picture>
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=SarayutMind&theme=dark&background=1c1917&border=1c1917&stroke=0891b2&ring=0891b2&fire=0891b2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0891b2&sideLabels=ffffff"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=SarayutMind&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=SarayutMind&theme=default&hide_border=true"
-      height="180"
-      alt="SarayutMind GitHub Streak"
-    />
-  </picture>
+---
 
+## 📈 Activity Graph
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SarayutMind&theme=tokyo-night&hide_border=true&area=true"
+    alt="Activity Graph"
+  />
 </p>
 
 ---
@@ -186,10 +142,8 @@ Building **FoodStacks** and exploring technology for the food ecosystem.
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-enhanced.vercel.app/api/top-langs/?username=SarayutMind&include_managed_repos=true&layout=compact&langs_count=10&theme=dark&bg_color=1c1917&title_color=0891b2&text_color=ffffff&hide_border=true"
-    alt="Most Used Languages"
-  />
+  <img height="180" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
 </p>
 
 ---
@@ -197,11 +151,21 @@ Building **FoodStacks** and exploring technology for the food ecosystem.
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/SarayutMind/SarayutMind/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/SarayutMind/SarayutMind/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/SarayutMind/SarayutMind/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/SarayutMind/SarayutMind/output/github-contribution-grid-snake.svg"
+      width="100%"
+    />
+  </picture>
 </p>
 
 ---
@@ -215,67 +179,33 @@ Building **FoodStacks** and exploring technology for the food ecosystem.
   />
 </p>
 
-**FoodStacks** is part of my journey to explore how technology can connect:
-
-```text
-        🍔 FOOD
-           │
-           ▼
-      ┌──────────┐
-      │ FOODTECH │
-      └────┬─────┘
-           │
-     ┌─────┴─────┐
-     ▼           ▼
-   💻 WEB       📡 IoT
-     │           │
-     └─────┬─────┘
-           ▼
-      ⚡ REAL-TIME
-        SYSTEMS
-```
-
----
-
-## 📡 Software × Hardware
-
-I enjoy building systems where software interacts with the physical world.
-
-```text
-   ┌──────────────┐
-   │    Sensors   │
-   └──────┬───────┘
-          │
-          ▼
-   ┌──────────────┐
-   │ IoT Devices  │
-   └──────┬───────┘
-          │
-          ▼
-   ┌──────────────┐
-   │ API / Server │
-   └──────┬───────┘
-          │
-          ▼
-   ┌──────────────┐
-   │ Web App      │
-   └──────────────┘
-```
+<p align="center">
+  <b>FoodStacks</b> is part of my journey to explore how technology can make the food ecosystem smarter, faster and more connected.
+</p>
 
 ---
 
 ## 🎯 Currently Learning
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,go,python" />
-
+  <img src="https://skillicons.dev/icons?i=postgres,go,python" />
 </p>
 
 <p align="center">
 
-`PostgreSQL`  •  `Go`  •  `Python`
+`PostgreSQL`  •  `Go`  •  `Python`
 
+</p>
+
+---
+
+## 💬 Dev Quote
+
+<p align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+    alt="Dev Quote"
+  />
 </p>
 
 ---
@@ -283,19 +213,15 @@ I enjoy building systems where software interacts with the physical world.
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/SarayutMind">
-  <img src="https://img.shields.io/badge/GitHub-SarayutMind-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://gitlab.com/sarayutpinta2">
-  <img src="https://img.shields.io/badge/GitLab-sarayutpinta2-FC6D26?style=for-the-badge&logo=gitlab" />
-</a>
-
-<a href="mailto:sarayutpinta2@gmail.com">
-  <img src="https://img.shields.io/badge/Email-sarayutpinta2-EA4335?style=for-the-badge&logo=gmail" />
-</a>
-
+  <a href="https://github.com/SarayutMind">
+    <img src="https://img.shields.io/badge/GitHub-SarayutMind-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://gitlab.com/sarayutpinta2">
+    <img src="https://img.shields.io/badge/GitLab-sarayutpinta2-FC6D26?style=for-the-badge&logo=gitlab" />
+  </a>
+  <a href="mailto:sarayutpinta2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sarayutpinta2-EA4335?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---
@@ -305,8 +231,8 @@ I enjoy building systems where software interacts with the physical world.
 ### ⚡ Build. Learn. Connect. Repeat.
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:164e63,50:0891b2,100:0f172a&height=120&section=footer"
-width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:164e63,50:0891b2,100:0f172a&height=120&section=footer"
+  width="100%"
 />
 
 </p>
