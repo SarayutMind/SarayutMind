@@ -136,13 +136,15 @@ Building **FoodStacks** and exploring technology for the food ecosystem.
   <img width="100%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
 </p>
 
-
 ---
 
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SarayutMind/github-stats/generated/languages.svg" alt="Most Used Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SarayutMind/github-stats/generated/languages.svg#gh-dark-mode-only" />
+    <img src="https://raw.githubusercontent.com/SarayutMind/github-stats/generated/languages.svg" alt="Most Used Languages" />
+  </picture>
 </p>
 
 ---
