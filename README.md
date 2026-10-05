@@ -103,14 +103,27 @@ Building **FoodStacks** and exploring technology for the food ecosystem.
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎮 Developer Mode
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=SarayutMind&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"
-    alt="GitHub Trophies"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=0891B2&center=true&vCenter=true&width=700&lines=%5B+SYSTEM+ONLINE+%5D;%5B+FULL-STACK+MODE+%5D;%5B+BUILDING+FOODSTACKS...+%5D;%5B+QUEST%3A+KEEP+LEARNING+%5D"
+    alt="Developer Mode"
   />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Class-Full--Stack%20Developer-0891b2?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Main%20Stack-TypeScript%20%2F%20Next.js-164e63?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Current%20Quest-FoodStacks-0891b2?style=for-the-badge&logo=buffer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-PostgreSQL%20%7C%20Go%20%7C%20Python-164e63?style=for-the-badge&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Based%20in-Thailand-0891b2?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
+
+---
 
 ---
 
@@ -127,13 +140,13 @@ Building **FoodStacks** and exploring technology for the food ecosystem.
 
 ---
 
-## 📈 Contribution Graph
+## ⏰ Productive Time
 
 <p align="center">
   <img
-    width="100%"
-    src="https://ghchart.rshah.org/0891b2/SarayutMind"
-    alt="Contribution Graph"
+    width="70%"
+    src="./profile-summary-card-output/tokyonight/4-productive-time.svg"
+    alt="Productive Time"
   />
 </p>
 
