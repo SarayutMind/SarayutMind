@@ -125,8 +125,6 @@ Building **FoodStacks** and exploring technology for the food ecosystem.
 
 ---
 
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -140,6 +138,14 @@ Building **FoodStacks** and exploring technology for the food ecosystem.
 
 ---
 
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="./metrics.languages.svg" alt="Most Used Languages" />
+</p>
+
+---
+
 ## ⏰ Productive Time
 
 <p align="center">
@@ -148,20 +154,6 @@ Building **FoodStacks** and exploring technology for the food ecosystem.
     src="./profile-summary-card-output/tokyonight/4-productive-time.svg"
     alt="Productive Time"
   />
-</p>
-
----
-
-## 💻 Main Languages
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
 ---
