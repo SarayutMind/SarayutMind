@@ -59,5 +59,5 @@ Full-Stack Developer & IoT Specialist with expertise in building fast, scalable 
 </p>
 
 <a href="https://github.com/SarayutMind" align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/chat?username=SarayutMind&theme=2077" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarayutMind&layout=compact&theme=dark&background=1c1917&border=1c1917&title_color=0891b2&text_color=ffffff&icon_color=0891b2&hide_border=true&locale=en&exclude_repo=SarayutMind" alt="Top Languages" />
 </a>
