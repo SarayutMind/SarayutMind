@@ -57,3 +57,7 @@ Full-Stack Developer & IoT Specialist with expertise in building fast, scalable 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarayutMind&theme=dark&background=1c1917&border=1c1917&stroke=0891b2&ring=0891b2&fire=0891b2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0891b2&sideLabels=ffffff" alt="GitHub Streak" />
   </a>
 </p>
+
+<a href="https://github.com/SarayutMind" align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/chat?username=SarayutMind&theme=2077" alt="Top Languages" />
+</a>
