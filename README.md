@@ -58,3 +58,8 @@ Full-Stack Developer & IoT Specialist with expertise in building fast, scalable 
   </a>
 </p>
 
+<a href="https://github.com/SarayutMind">
+    <img src="https://vercel.app" alt="Top Languages" />
+  </a>
+</p>
+
