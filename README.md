@@ -141,7 +141,7 @@ Building **FoodStacks** and exploring technology for the food ecosystem.
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="./metrics.languages.svg" alt="Most Used Languages" />
+  <img src="https://raw.githubusercontent.com/SarayutMind/github-stats/generated/languages.svg" alt="Most Used Languages" />
 </p>
 
 ---
