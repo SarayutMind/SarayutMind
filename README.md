@@ -141,10 +141,7 @@ Building **FoodStacks** and exploring technology for the food ecosystem.
 ## 💻 Most Used Languages
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SarayutMind/github-stats/generated/languages.svg#gh-dark-mode-only" />
-    <img src="https://raw.githubusercontent.com/SarayutMind/github-stats/generated/languages.svg" alt="Most Used Languages" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/SarayutMind/SarayutMind/languages/languages-all.svg" alt="Most Used Languages" />
 </p>
 
 ---
